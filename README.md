@@ -184,3 +184,8 @@ Linux_System_Monitor/
 ├── PROJECT.md          # Project specification and phase progress
 └── README.md           # Project documentation
 ```
+
+## Contributors
+
+- Mohamed Reda — system monitoring, process inspection and safe process management
+- Second Person — SQLite persistence, process tracking and historical visualization
